@@ -39,7 +39,7 @@ Model Details
 The face mask detection model is built using a Convolutional Neural Network (CNN) architecture. The CNN model is trained on a dataset of images containing people with and without face masks. It leverages deep learning techniques to achieve high accuracy in detecting face masks in images.
 
 Contributors
-Ajeetkumar Ukande ajeetkumar@example.com
+Ajeetkumar Ukande ajeetkumarukande95@gmail.com
 License
 This project is licensed under the MIT License.
 
