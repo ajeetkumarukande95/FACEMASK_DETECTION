@@ -17,7 +17,7 @@ Clone this repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/face-mask-detection.git
+git clone https://github.com/ajeetkumarukande95/face-mask-detection.git
 Install the required dependencies:
 
 bash
